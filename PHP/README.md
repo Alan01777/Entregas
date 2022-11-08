@@ -6,13 +6,13 @@ https://github.com/aXR6/utilitarios/blob/main/Aula-Desen.%20Web/ano_2022/Slide%2
 
 Objetivo:
 
-> Criar todos os exemplos do slide;
-> Organizar por tópicos (organização livre);
-> Exemplo de GET;
-> Exemplo de POST;
+- Criar todos os exemplos do slide;
+- Organizar por tópicos (organização livre);
+- Exemplo de GET;
+- Exemplo de POST;
 
 Observações:
 
-> Códigos em PHP;
-> Código + resultado da saída;
-> Entrega: 08/nov às 23:59
+- Códigos em PHP;
+- Código + resultado da saída;
+- Entrega: 08/nov às 23:59
